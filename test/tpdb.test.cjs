@@ -144,7 +144,7 @@ test('public build includes only runtime assets and excludes secrets and private
  buildSite(root);buildSite(root);
  assert.equal(fs.existsSync(path.join(root,'dist/.env.local')),false);
  assert.equal(fs.existsSync(path.join(root,'dist/.local')),false);
- assert.deepEqual(fs.readdirSync(path.join(root,'dist')).sort(),['booster-audio.js','booster-effects.css','data','index.html','portrait-info.js','profile-info.css','profile-info.js','save-storage.js']);
+ assert.deepEqual(fs.readdirSync(path.join(root,'dist')).sort(),['booster-audio.js','booster-effects.css','data','favicon.svg','index.html','portrait-info.js','profile-info.css','profile-info.js','save-storage.js','usability.css']);
  fs.writeFileSync(path.join(root,'dist/secret.txt'),fixtureToken);
  assert.throws(()=>buildSite(root),/Fichier inattendu/);
 });

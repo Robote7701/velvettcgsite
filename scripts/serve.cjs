@@ -5,6 +5,8 @@ const portraits = require('../portrait-info.js');
 const files = {
   '/': ['index.html', 'text/html'],
   '/index.html': ['index.html', 'text/html'],
+  '/favicon.svg': ['favicon.svg', 'image/svg+xml'],
+  '/usability.css': ['usability.css', 'text/css'],
   '/save-storage.js': ['save-storage.js', 'text/javascript'],
   '/profile-info.js': ['profile-info.js', 'text/javascript'],
   '/profile-info.css': ['profile-info.css', 'text/css'],
