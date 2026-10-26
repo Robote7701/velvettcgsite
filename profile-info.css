@@ -1,0 +1,16 @@
+.encyclopedia-section{margin-top:24px;border-top:1px solid #9e7d6655;padding-top:16px}
+.encyclopedia-section h3{font:24px "Playfair Display",serif;color:#edcfaa;margin:0 0 15px}
+.encyclopedia-section h4{font-size:13px;color:#edcfaa;margin:18px 0 8px}
+.encyclopedia-details{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0}
+.encyclopedia-details>div{min-width:0;border-bottom:1px solid #98745d33;padding-bottom:9px}
+.encyclopedia-details dt{font-size:10px;letter-spacing:.05em;color:#bda6a9;margin-bottom:6px}
+.encyclopedia-details dd{font-size:13px;line-height:1.6;color:#f0d4b3;margin:0;overflow-wrap:anywhere}
+.encyclopedia-section a{color:#e5c18d;font-size:11px;overflow-wrap:anywhere}
+.known-for{font-size:13px;line-height:1.8;white-space:pre-line;color:#dfcbd0}
+.profile-sources,.profile-conflicts{font-size:12px;line-height:1.8;color:#cbb8bd;overflow-wrap:anywhere}
+.profile-sources{padding-left:18px}
+.profile-sources li{margin:10px 0}
+.profile-conflicts{border:1px solid #d2aa6c;padding:12px;margin-top:16px}
+.profile-layout{align-items:start}
+.profile-card{position:sticky;top:0}
+@media(max-width:650px){.profile-card{position:static}.encyclopedia-details{grid-template-columns:1fr}.encyclopedia-section h3{font-size:22px}}

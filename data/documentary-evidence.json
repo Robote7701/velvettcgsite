@@ -1,0 +1,450 @@
+{
+  "format": "velvet-documentary-evidence",
+  "version": 1,
+  "notes": "Lot documentaire relu : faits professionnels et identité, sans analyse de portraits. La fiche Tori Lane conserve son nom et son ID Velvet ; Tory Lane est un pseudonyme explicitement relié par la source. Les divergences avec ThePornDB restent à vérifier.",
+  "profiles": [
+    {
+      "id": 1,
+      "stage_name": "Angela White",
+      "claims": [
+        {
+          "field": "activities",
+          "value": [
+            "Actrice de films pour adultes",
+            "Réalisatrice"
+          ],
+          "source": {
+            "id": "adultfilmdatabase:1:2026-10-23T19:06:09.326Z",
+            "provider": "AdultFilmDatabase",
+            "url": "https://www.adultfilmdatabase.com/actor/angela-white-42938/",
+            "retrieved_at": "2026-10-23T19:06:09.326Z"
+          }
+        },
+        {
+          "field": "nationalities",
+          "value": [
+            "Australian"
+          ],
+          "source": {
+            "id": "adultfilmdatabase:1:2026-10-23T19:06:09.326Z",
+            "provider": "AdultFilmDatabase",
+            "url": "https://www.adultfilmdatabase.com/actor/angela-white-42938/",
+            "retrieved_at": "2026-10-23T19:06:09.326Z"
+          }
+        },
+        {
+          "field": "career_start_year",
+          "value": 2003,
+          "source": {
+            "id": "adultfilmdatabase:1:2026-10-23T19:06:09.326Z",
+            "provider": "AdultFilmDatabase",
+            "url": "https://www.adultfilmdatabase.com/actor/angela-white-42938/",
+            "retrieved_at": "2026-10-23T19:06:09.326Z"
+          }
+        },
+        {
+          "field": "notable_works",
+          "value": [
+            "After Dark (2018)"
+          ],
+          "source": {
+            "id": "adultfilmdatabase:1:2026-10-23T19:06:09.326Z",
+            "provider": "AdultFilmDatabase",
+            "url": "https://www.adultfilmdatabase.com/actor/angela-white-42938/",
+            "retrieved_at": "2026-10-23T19:06:09.326Z"
+          }
+        },
+        {
+          "field": "collaborations",
+          "value": [
+            "Kayden Kross — After Dark (2018)"
+          ],
+          "source": {
+            "id": "adultfilmdatabase:1:2026-10-23T19:06:09.326Z",
+            "provider": "AdultFilmDatabase",
+            "url": "https://www.adultfilmdatabase.com/actor/angela-white-42938/",
+            "retrieved_at": "2026-10-23T19:06:09.326Z"
+          }
+        },
+        {
+          "field": "body_measurements",
+          "value": "42G-31-36",
+          "source": {
+            "id": "adultfilmdatabase:1:2026-10-23T19:06:09.326Z",
+            "provider": "AdultFilmDatabase",
+            "url": "https://www.adultfilmdatabase.com/actor/angela-white-42938/",
+            "retrieved_at": "2026-10-23T19:06:09.326Z"
+          }
+        },
+        {
+          "field": "known_for",
+          "value": "Angela White est une actrice et réalisatrice de films pour adultes dont AdultFilmDatabase situe le début de carrière en 2003. Sa filmographie comprend notamment After Dark (2018), réalisé par Kayden Kross, ainsi que plusieurs productions créditées sous son propre nom.",
+          "source": {
+            "id": "adultfilmdatabase:1:2026-10-23T19:06:09.326Z",
+            "provider": "AdultFilmDatabase",
+            "url": "https://www.adultfilmdatabase.com/actor/angela-white-42938/",
+            "retrieved_at": "2026-10-23T19:06:09.326Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "stage_name": "Belladonna",
+      "claims": [
+        {
+          "field": "aliases",
+          "value": [
+            "Bella",
+            "Bella Donna",
+            "Sasha"
+          ],
+          "source": {
+            "id": "boobpedia:30:2026-10-23T19:06:09.376Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Belladonna",
+            "retrieved_at": "2026-10-23T19:06:09.376Z"
+          }
+        },
+        {
+          "field": "nationalities",
+          "value": [
+            "American"
+          ],
+          "source": {
+            "id": "boobpedia:30:2026-10-23T19:06:09.376Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Belladonna",
+            "retrieved_at": "2026-10-23T19:06:09.376Z"
+          }
+        },
+        {
+          "field": "birth_date",
+          "value": "1981-05-21",
+          "source": {
+            "id": "boobpedia:30:2026-10-23T19:06:09.376Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Belladonna",
+            "retrieved_at": "2026-10-23T19:06:09.376Z"
+          }
+        },
+        {
+          "field": "birth_date_precision",
+          "value": "day",
+          "source": {
+            "id": "boobpedia:30:2026-10-23T19:06:09.376Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Belladonna",
+            "retrieved_at": "2026-10-23T19:06:09.376Z"
+          }
+        },
+        {
+          "field": "birth_place",
+          "value": "Biloxi, Mississippi, USA",
+          "source": {
+            "id": "boobpedia:30:2026-10-23T19:06:09.376Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Belladonna",
+            "retrieved_at": "2026-10-23T19:06:09.376Z"
+          }
+        },
+        {
+          "field": "birth_city",
+          "value": "Biloxi",
+          "source": {
+            "id": "boobpedia:30:2026-10-23T19:06:09.376Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Belladonna",
+            "retrieved_at": "2026-10-23T19:06:09.376Z"
+          }
+        },
+        {
+          "field": "birth_country",
+          "value": "États-Unis",
+          "source": {
+            "id": "boobpedia:30:2026-10-23T19:06:09.376Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Belladonna",
+            "retrieved_at": "2026-10-23T19:06:09.376Z"
+          }
+        },
+        {
+          "field": "career_start_year",
+          "value": 1999,
+          "source": {
+            "id": "boobpedia:30:2026-10-23T19:06:09.376Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Belladonna",
+            "retrieved_at": "2026-10-23T19:06:09.376Z"
+          }
+        },
+        {
+          "field": "activities",
+          "value": [
+            "Actrice de films pour adultes"
+          ],
+          "source": {
+            "id": "boobpedia:30:2026-10-23T19:06:09.376Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Belladonna",
+            "retrieved_at": "2026-10-23T19:06:09.376Z"
+          }
+        },
+        {
+          "field": "career_status",
+          "value": "Retraitée — annonce de juillet 2012 rapportée par Boobpedia",
+          "source": {
+            "id": "boobpedia:30:2026-10-23T19:06:09.376Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Belladonna",
+            "retrieved_at": "2026-10-23T19:06:09.376Z"
+          }
+        },
+        {
+          "field": "known_for",
+          "value": "Belladonna est une ancienne actrice américaine de films pour adultes. Boobpedia situe sa période d’activité de 1999 à 2012 et rapporte l’annonce de sa retraite en juillet 2012.",
+          "source": {
+            "id": "boobpedia:30:2026-10-23T19:06:09.376Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Belladonna",
+            "retrieved_at": "2026-10-23T19:06:09.376Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "stage_name": "Autumn Falls",
+      "claims": [
+        {
+          "field": "nationalities",
+          "value": [
+            "American"
+          ],
+          "source": {
+            "id": "boobpedia:54:2026-10-23T19:06:09.401Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Autumn_Falls",
+            "retrieved_at": "2026-10-23T19:06:09.401Z"
+          }
+        },
+        {
+          "field": "birth_date",
+          "value": "2000-08-04",
+          "source": {
+            "id": "boobpedia:54:2026-10-23T19:06:09.401Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Autumn_Falls",
+            "retrieved_at": "2026-10-23T19:06:09.401Z"
+          }
+        },
+        {
+          "field": "birth_date_precision",
+          "value": "day",
+          "source": {
+            "id": "boobpedia:54:2026-10-23T19:06:09.401Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Autumn_Falls",
+            "retrieved_at": "2026-10-23T19:06:09.401Z"
+          }
+        },
+        {
+          "field": "birth_place",
+          "value": "New York City, New York, USA",
+          "source": {
+            "id": "boobpedia:54:2026-10-23T19:06:09.401Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Autumn_Falls",
+            "retrieved_at": "2026-10-23T19:06:09.401Z"
+          }
+        },
+        {
+          "field": "birth_city",
+          "value": "New York",
+          "source": {
+            "id": "boobpedia:54:2026-10-23T19:06:09.401Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Autumn_Falls",
+            "retrieved_at": "2026-10-23T19:06:09.401Z"
+          }
+        },
+        {
+          "field": "birth_country",
+          "value": "États-Unis",
+          "source": {
+            "id": "boobpedia:54:2026-10-23T19:06:09.401Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Autumn_Falls",
+            "retrieved_at": "2026-10-23T19:06:09.401Z"
+          }
+        },
+        {
+          "field": "career_start_year",
+          "value": 2019,
+          "source": {
+            "id": "boobpedia:54:2026-10-23T19:06:09.401Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Autumn_Falls",
+            "retrieved_at": "2026-10-23T19:06:09.401Z"
+          }
+        },
+        {
+          "field": "activities",
+          "value": [
+            "Mannequin pour adultes",
+            "Actrice de films pour adultes"
+          ],
+          "source": {
+            "id": "boobpedia:54:2026-10-23T19:06:09.401Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Autumn_Falls",
+            "retrieved_at": "2026-10-23T19:06:09.401Z"
+          }
+        },
+        {
+          "field": "known_for",
+          "value": "Autumn Falls est une mannequin et actrice américaine de films pour adultes. Sa fiche Boobpedia situe le début de son activité en 2019.",
+          "source": {
+            "id": "boobpedia:54:2026-10-23T19:06:09.401Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Autumn_Falls",
+            "retrieved_at": "2026-10-23T19:06:09.401Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "stage_name": "Tori Lane",
+      "claims": [
+        {
+          "field": "aliases",
+          "value": [
+            "Tory Lane",
+            "Tory Freeland",
+            "Torry Freeland",
+            "Tory Freelan",
+            "Susan",
+            "Tory Land",
+            "Mistress Tory Lane"
+          ],
+          "source": {
+            "id": "boobpedia:88:2026-10-23T19:06:09.452Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Tory_Lane",
+            "retrieved_at": "2026-10-23T19:06:09.452Z"
+          }
+        },
+        {
+          "field": "nationalities",
+          "value": [
+            "American"
+          ],
+          "source": {
+            "id": "boobpedia:88:2026-10-23T19:06:09.452Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Tory_Lane",
+            "retrieved_at": "2026-10-23T19:06:09.452Z"
+          }
+        },
+        {
+          "field": "birth_date",
+          "value": "1982-09-30",
+          "source": {
+            "id": "boobpedia:88:2026-10-23T19:06:09.452Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Tory_Lane",
+            "retrieved_at": "2026-10-23T19:06:09.452Z"
+          }
+        },
+        {
+          "field": "birth_date_precision",
+          "value": "day",
+          "source": {
+            "id": "boobpedia:88:2026-10-23T19:06:09.452Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Tory_Lane",
+            "retrieved_at": "2026-10-23T19:06:09.452Z"
+          }
+        },
+        {
+          "field": "birth_place",
+          "value": "Fort Lauderdale, Florida, USA",
+          "source": {
+            "id": "boobpedia:88:2026-10-23T19:06:09.452Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Tory_Lane",
+            "retrieved_at": "2026-10-23T19:06:09.452Z"
+          }
+        },
+        {
+          "field": "birth_city",
+          "value": "Fort Lauderdale",
+          "source": {
+            "id": "boobpedia:88:2026-10-23T19:06:09.452Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Tory_Lane",
+            "retrieved_at": "2026-10-23T19:06:09.452Z"
+          }
+        },
+        {
+          "field": "birth_country",
+          "value": "États-Unis",
+          "source": {
+            "id": "boobpedia:88:2026-10-23T19:06:09.452Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Tory_Lane",
+            "retrieved_at": "2026-10-23T19:06:09.452Z"
+          }
+        },
+        {
+          "field": "career_start_year",
+          "value": 2004,
+          "source": {
+            "id": "boobpedia:88:2026-10-23T19:06:09.452Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Tory_Lane",
+            "retrieved_at": "2026-10-23T19:06:09.452Z"
+          }
+        },
+        {
+          "field": "activities",
+          "value": [
+            "Actrice de films pour adultes",
+            "Mannequin pour adultes",
+            "Danseuse de striptease",
+            "Réalisatrice"
+          ],
+          "source": {
+            "id": "boobpedia:88:2026-10-23T19:06:09.452Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Tory_Lane",
+            "retrieved_at": "2026-10-23T19:06:09.452Z"
+          }
+        },
+        {
+          "field": "notable_works",
+          "value": [
+            "The Young & The Raunchy — première apparition citée par Boobpedia"
+          ],
+          "source": {
+            "id": "boobpedia:88:2026-10-23T19:06:09.452Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Tory_Lane",
+            "retrieved_at": "2026-10-23T19:06:09.452Z"
+          }
+        },
+        {
+          "field": "known_for",
+          "value": "Tori Lane, également connue sous le nom de Tory Lane, est une actrice et réalisatrice américaine de films pour adultes. Boobpedia situe le début de sa carrière en 2004 et décrit également son activité de mannequin.",
+          "source": {
+            "id": "boobpedia:88:2026-10-23T19:06:09.452Z",
+            "provider": "Boobpedia",
+            "url": "https://www.boobpedia.com/boobs/Tory_Lane",
+            "retrieved_at": "2026-10-23T19:06:09.452Z"
+          }
+        }
+      ]
+    }
+  ]
+}
