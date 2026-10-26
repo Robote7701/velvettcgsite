@@ -306,6 +306,7 @@ test('UI rejects invalid imports, cancellation, active reveals and storage failu
 
 test('encyclopedic card shows documented sections, hides missing fields and never writes player data', () => {
   const g=game();
+  g.run('state.owned[100]=1');
   const before=g.run('JSON.stringify(state)');const writes=g.writes.length;
   g.run('cards[99].profile={...VelvetProfiles.defaults(),id:100,stage_name:cards[99].name,height:"170cm",career_start_year:2010,sources:[{id:"fixture",provider:"Source de test",url:"https://example.org/fixture",retrieved_at:"2026-01-02T12:00:00Z"}],field_sources:{height:["fixture"],career_start_year:["fixture"]}};showCard(100)');
   const result=g.element('modalCard').innerHTML;
@@ -347,4 +348,26 @@ test('local portrait loading and image failures keep a fallback without touching
  assert.doesNotMatch(g.run('cardHtml(cards[0])'),/<img/);
  assert.match(g.run('cardHtml(cards[0])'),/card-monogram/);
  assert.equal(g.run('JSON.stringify(state)'),before);assert.equal(g.writes.length,writes);
+});
+
+test('unowned profiles hide biography and route to their booster without spending', () => {
+ const g=game(),before=g.run('JSON.stringify(state)'),writes=g.writes.length;
+ for(const [id,edition,label] of [[1,1,'I'],[50,1,'I'],[51,2,'II'],[100,2,'II']]){
+  g.run('showCard('+id+')');
+  const result=g.element('modalCard').innerHTML;
+  assert.ok(result.includes('Une rencontre'));
+  assert.ok(result.includes('Je suis dans le booster Volume '+label));
+  assert.doesNotMatch(result,/profile-presentation|favorite-button/);
+  assert.match(result,/card [^"<>]*locked/);
+  g.run('goToCardBooster('+id+')');
+  assert.equal(g.run('selectedEdition'),edition);
+  assert.equal(g.run('displayedProfileId'),null);
+ }
+ assert.equal(g.run('JSON.stringify(state)'),before);
+ assert.equal(g.writes.length,writes);
+ g.run('state.owned[100]=1;showCard(100)');
+ assert.ok(!g.element('modalCard').innerHTML.includes('Une rencontre'));
+ assert.match(g.element('modalCard').innerHTML,/favorite-button/);
+ g.run('state.owned[100]=0;showCard(100)');
+ assert.ok(g.element('modalCard').innerHTML.includes('Une rencontre'));
 });

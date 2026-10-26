@@ -14,3 +14,5 @@
 .profile-layout{align-items:start}
 .profile-card{position:sticky;top:0}
 @media(max-width:650px){.profile-card{position:static}.encyclopedia-details{grid-template-columns:1fr}.encyclopedia-section h3{font-size:22px}}
+
+.profile-locked{margin-top:24px;padding:28px 22px;text-align:center;border:1px solid #d4a98155;background:linear-gradient(145deg,#342332,#19121e);border-radius:5px}.profile-locked h3{color:#efd1ae;font-size:24px}.profile-locked p{color:#c7b5be;line-height:1.7}.profile-booster-link{display:inline-block;margin-top:12px;padding:14px 18px;background:linear-gradient(135deg,#b48b64,#d8b592);color:#21131a;text-decoration:none;font-weight:700;border-radius:3px}.profile-booster-link:focus-visible{outline:2px solid white;outline-offset:4px}

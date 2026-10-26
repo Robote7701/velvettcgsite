@@ -742,6 +742,19 @@
       "retrieved_at": "2026-10-23T20:04:07.009Z",
       "review_status": "approved"
     },
+    "62": {
+      "title": "File:Blake Blossom.webp",
+      "remote_src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Blake_Blossom.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "https://commons.wikimedia.org/wiki/File:Blake_Blossom.webp",
+      "license_name": "CC0",
+      "artist": "Unknown author Unknown author",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "license": "CC0 · Unknown author Unknown author",
+      "src": "assets/portraits/62.webp",
+      "sha256": "72d27331109b70988a72e1ef948719f921aa7a2ff7f8f8d1b190cc981c2f3dc8",
+      "retrieved_at": "2026-10-26T17:03:35.239Z",
+      "review_status": "approved"
+    },
     "63": {
       "title": "File:Kenzie Reeves.png",
       "remote_src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Kenzie_Reeves.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -870,6 +883,19 @@
       "src": "assets/portraits/76.png",
       "sha256": "0213b665fc30668b146961b51841c5ef055382ba59fbb0bea33ebce24a8965f1",
       "retrieved_at": "2026-10-23T20:05:27.486Z",
+      "review_status": "approved"
+    },
+    "79": {
+      "title": "File:Nina Elle.webp",
+      "remote_src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Nina_Elle.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "https://commons.wikimedia.org/wiki/File:Nina_Elle.webp",
+      "license_name": "CC BY-SA 2.5",
+      "artist": "Unknown author Unknown author",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "license": "CC BY-SA 2.5 · Unknown author Unknown author",
+      "src": "assets/portraits/79.webp",
+      "sha256": "319d59d8b29d0570af17f3a655613de78bc1b4dddf1afc43ffc7902671aa7df0",
+      "retrieved_at": "2026-10-26T17:04:00.593Z",
       "review_status": "approved"
     },
     "83": {
@@ -1081,5 +1107,5 @@
       "review_status": "approved"
     }
   },
-  "updated_at": "2026-10-23T20:08:11.309Z"
+  "updated_at": "2026-10-26T17:04:37.435Z"
 }
